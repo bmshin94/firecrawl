@@ -1,3 +1,24 @@
+# Firecrawl (firecrawl/firecrawl)
+
+## 프로젝트 개요
+인터넷의 어떤 복잡한 웹사이트라도 AI가 읽고 학습하기 가장 완벽한 깔끔한 문서로 순식간에 긁어오는 "AI 전용 웹 데이터 초고속 수확기"
+로그인 장벽, 복잡한 자바스크립트 화면, 봇 차단 기술을 우회하여 웹페이지의 핵심 알맹이 텍스트만 깨끗하게 추출
+최신 웹 정보를 실시간으로 AI 검색과 지식 베이스로 만들고 싶은 전 세계 18만 개발자들의 필수 웹 스크래퍼
+
+## 핵심 특징 & 추천 분야
+- AI웹데이터수확기
+- 18만개발자선택
+- 초고속웹스크래퍼
+- 봇차단우회
+- 지식베이스구축
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 Firecrawl is a web scraper API. The directory you have access to is a monorepo:
  - `apps/api` has the actual API and worker code
  - `apps/*-sdk` are various SDKs
